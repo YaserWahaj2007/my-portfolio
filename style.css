@@ -1,0 +1,88 @@
+body{margin: 0; background-color: #1a1a1a;}
+
+.sidebar{
+	height: 500px;
+	width: 280px;
+	background-color: black;
+	border: 1px solid white;
+	border-radius: 30px;
+	margin-top: 50px;
+	margin-left: 20px;
+	text-align: center;	
+	float: left;
+}
+.navbtn{
+	border: none;
+	width: 90%;
+	height: 80px;
+	background-color: transparent;
+	color: gray;
+	margin-top: 5px;
+}
+.navbtn:hover{color: white; background-color: transparent; text-decoration: none; font-size: 14px; font-family: cooper;}
+button[id="topbtn"]{margin-top: 35px;}
+
+img.navicon{
+	height: 20px;
+	width: 20px;
+	margin-right: 5px;
+	border-radius: 2px;
+}
+
+div.Aboutme{
+	margin-top: 30px;
+	margin-left: 50px;
+	color: white;
+	float: left;
+}
+h1{font-family: arial black;}
+h2{font-family: arial black;
+	color: goldenrod;
+}
+p{font-family: arial;}
+
+
+.Aboutbtn{
+	padding: 20px;
+	border-radius: 30px;
+	border: 2px solid white;
+	background-color: transparent;
+	color: white;
+}
+button[id="btn1"]{
+	background-color: white;
+	color: black;
+	margin-right: 10px;
+}
+.Aboutbtn:hover{color: black; background-color: white; box-shadow: 0px 10px 25px gray;}
+
+
+
+.social-media-logo{
+	height: 40px;
+	width: 40px;
+	margin-top: 50px;
+	padding: 10px;
+}
+.social-media-logo:hover{background-color:black; border-radius: 10px; }
+a{ text-decoration:none;}
+
+
+img.mypic{
+	height: 400px;
+	width: 350px;
+	border-radius: 50px;
+}
+.myphotoback{
+	height: 360px;
+	width: 350px;
+	background-color: black;
+	float: right;
+	margin-right: 7%;
+	margin-top: 80px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	border-radius: 50px;
+	box-shadow: 0px 20px 40px darkgoldenrod;
+}
+
